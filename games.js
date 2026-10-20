@@ -1,4 +1,3 @@
-
 const GAMES = [
   {title:'SNES-Demo',system:'SNES',core:'snes',url:'roms/snes-demo.sfc'},
   {title:'Mega-Drive-Demo',system:'Mega Drive',core:'segaMD',url:'roms/megadrive-demo.md'},
